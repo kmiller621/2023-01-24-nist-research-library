@@ -8,8 +8,8 @@ latitude: "39.140240"     # decimal latitude of workshop venue (use https://www.
 longitude: "-77.218338"    # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "May 5, 7, 12, 14, 19, 21, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "Times vary, check schedule"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-05-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-05-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2023-01-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-01-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Regina Avila, Andrea Medina-Smith, Kathryn Miller"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 email: ["regina.avila@nist.gov, andrea.medina-smith@nist.gov, kathryn.miller@nist.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
